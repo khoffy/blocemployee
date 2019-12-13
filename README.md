@@ -1,6 +1,6 @@
 # blocemployee
 
-A new Flutter project.
+How to use Flutter's BLoC pattern to handle employees salaries. project completed from a tutorial
 
 ## Getting Started
 
